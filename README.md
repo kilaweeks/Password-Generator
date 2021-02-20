@@ -6,7 +6,7 @@ This application generates a random password based on criteria that the user pro
 
 ## Images
 
-[./assets/img.png]
+(./assets/img.png)
 
 ## Application
 
